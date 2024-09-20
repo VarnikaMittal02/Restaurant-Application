@@ -1,0 +1,10 @@
+Server.Js is used for creating a server sending the response of the incoming request
+
+
+App.js fight is used for import all types of NPM packages like express and all and In this we have connect of front end and backend by using the cors And use the middleware of converting the data from Jason to Obj and used also url encoded and also importing database and calling the database in the bottom and this file is also impor in the server.js
+
+
+In the model folder--->Reservation scheme of file is available that is used for creating schema of what will be the structure of the data
+
+
+in controllers We are using reserve reservation file for sending the data in the database from  models folder ---->reservation schema fileHow to send the data 
